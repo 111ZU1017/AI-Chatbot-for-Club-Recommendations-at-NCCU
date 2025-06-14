@@ -195,7 +195,7 @@ Our project set out to solve the problem:
 ### Chen, Tzu-Jung (Laura) – Project Manager
 
 * Collected and organized data from Excel and PDF sources.
-* Oversaw overall project planning and task delegation.
+* Oversaw and co-led overall project planning and task delegation.
 * Wrote and compiled the final project paper, ensuring coherence and alignment with objectives.
 
 ### Pawarun Pungton (Penny) – Coder, Project Manager
@@ -222,3 +222,18 @@ Our project set out to solve the problem:
 
 
 
+## Acknowledgments
+
+We would like to sincerely thank **Professor Pien Chung-pei** for his invaluable guidance, support, and encouragement throughout the development of this project. His insights and feedback were instrumental in shaping our research direction and helping us navigate technical challenges.
+
+We are also grateful to the **International College of Innovation at National Chengchi University** for providing the resources and environment that made this project possible.
+
+
+
+
+## References
+
+* National Chengchi University Study Affairs Website – Club Directory. Retrieved from: [https://osa.nccu.edu.tw]([https://osa.nccu.edu.tw](https://osa.nccu.edu.tw/tw/%E8%AA%B2%E5%A4%96%E6%B4%BB%E5%8B%95%E7%B5%84/%E7%A4%BE%E5%9C%98-%E8%AA%B2%E5%A4%96%E7%B5%84%E7%BE%A9%E5%B7%A5%E5%9C%98%E8%B3%87%E8%A8%8A/%E7%A4%BE%E5%9C%98%E7%B6%B2%E9%A0%81%E9%80%A3%E7%B5%90)
+* Adams, R. (2019, April 17). *‘It’s an educational revolution’: How AI is transforming university life*. The Guardian. [https://www.theguardian.com/education/2019/apr/17/its-an-educational-revolution-how-ai-is-transforming-university-life](https://www.theguardian.com/education/2019/apr/17/its-an-educational-revolution-how-ai-is-transforming-university-life)
+* Irawan, A., Prasetyo, E., & Suhardi, B. (2019). *Designing chatbot using AI: A case study for student consultation service*. Journal of Physics: Conference Series, 1228(1), 012060. [https://doi.org/10.1088/1742-6596/1228/1/012060](https://doi.org/10.1088/1742-6596/1228/1/012060)
+* Zhou, Y., Liu, X., Ma, H., & Zheng, Y. (2024). *An intelligent chatbot framework based on LLM and RAG for smart campus*. Journal of Systems and Software. [https://doi.org/10.1016/j.jss.2024.111922](https://doi.org/10.1016/j.jss.2024.111922)
