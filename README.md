@@ -135,8 +135,8 @@ Although the system runs in a code-based interface (Gradio), we analyzed and ver
 
 | **Query**                                  | **Sample Answer**                                                                                     |
 | ------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| I like to dance. Which club should I join? | You might be interested in joining the NCCU Dance Club or Modern Dance Society.                       |
-| Are there any volunteering clubs?          | Yes, clubs like the Community Service Club and Red Cross Youth Division focus on volunteering.        |
+| I like to dance. Which club should I join? | You might be interested in joining the NCCU Dance Club or Kpop Dance Club.                            |
+| Are there any Thai clubs?                  | Yes, there is the Thai Student Association Club.                                                      |
 | How many types of clubs are there at NCCU? | NCCU has a diverse set of clubs including Academic, Art, Fellowship, Fitness, and Service categories. |
 
 > *Note:* We also observed a common misconception during Innofest: some users expected a voice chatbot. We identified this as a limitation and clarified that our system is currently text-only.
