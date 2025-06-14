@@ -192,30 +192,30 @@ Our project set out to solve the problem:
 
 ## Contributors
 
-### Chen, Tzu-Jung – Project Manager
+### Chen, Tzu-Jung (Laura) – Project Manager
 
 * Collected and organized data from Excel and PDF sources.
 * Oversaw overall project planning and task delegation.
 * Wrote and compiled the final project paper, ensuring coherence and alignment with objectives.
 
-### Pawarun – Coder, Project Manager
+### Pawarun Pungton (Penny) – Coder, Project Manager
 
 * Developed the core codebase for the chatbot system.
 * Built and implemented the vector embedding pipeline using OpenAI’s API and LangChain.
 * Ensured consistency in data formatting and retrieval structure.
 * Co-led the project, contributing to both technical direction and coordination.
 
-### Napat – Poster Design, Ideation
+### Naphat Nateprakan (Title) – Poster Design, Ideation
 
 * Contributed to the conceptual development of the project idea.
 * Assisted with the design and layout of the final poster used for presentations and visual communication.
 
-### Baiyoke – Poster Design
+### Phatharasuda Maneekiang (Baiyoke) – Poster Design
 
 * Designed key elements of the project poster, focusing on clarity and visual appeal.
 * Helped translate technical elements into an accessible visual format.
 
-### Neena – Poster Design
+### Nawanun Sangguean (Neena) – Poster Design
 
 * Contributed to the overall creation and design of the project poster.
 * Collaborated on formatting, aesthetic cohesion, and final poster assembly.
