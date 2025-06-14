@@ -1,10 +1,6 @@
 # AI-Chatbot-for-Club-Recommendations-at-NCCU
 An AI-powered chatbot that recommends NCCU student clubs based on user interests, using semantic search and natural language processing to enhance student engagement.
 
-Here’s a clear and organized description of your project’s file structure, including the purpose and relationships between each file:
-
----
-
 ### **Project File Structure Overview**
 
 ```
@@ -31,25 +27,21 @@ nccu-chatbot/
 └── README.md
 ```
 
----
-
 ### **File and Folder Descriptions**
 
-#### 🔹 `app.py`
+#### `app.py`
 
 * **Purpose:** Main entry point of the application.
 * **Function:** Runs the chatbot by importing components from other modules (embedding, retrieval, and UI).
 * **Relationship:** Integrates all functionalities—loads vector store, builds the chatbot chain, and launches the Gradio UI.
 
-#### 🔹 `chatbot_chain.py`
+#### `chatbot_chain.py`
 
 * **Purpose:** Orchestrates the core logic of the chatbot using LangChain.
 * **Function:** Combines retrieval and generation to respond to user queries using the RAG framework and GPT-4o.
 * **Relationship:** Uses functions from `vector_store/` to fetch relevant data and passes results to OpenAI for generation.
 
----
-
-### 📁 `club_data/`
+### `club_data/`
 
 * **Purpose:** Stores the datasets used for embedding and retrieval.
 * **Files:**
@@ -58,9 +50,7 @@ nccu-chatbot/
   * `nccu_club_data.csv`: Cleaned and structured version used for loading into MongoDB.
   * `__init__.py`: Makes the folder a package (optional, for Python import structure).
 
----
-
-### 📁 `vector_store/`
+### `vector_store/`
 
 * **Purpose:** Handles embeddings and semantic search.
 * **Files:**
@@ -69,9 +59,7 @@ nccu-chatbot/
   * `vector_search.py`: Builds and queries the vector index using MongoDB Atlas Vector Search.
   * `__init__.py`: For importability.
 
----
-
-### 📁 `gradio_ui/`
+### `gradio_ui/`
 
 * **Purpose:** Contains code for the web interface.
 * **Files:**
@@ -79,27 +67,14 @@ nccu-chatbot/
   * `ui.py`: Creates and launches a Gradio interface for user interaction with the chatbot.
   * `__init__.py`: For modular access.
 
----
-
-### 🔹 `config.py`
+### `config.py`
 
 * **Purpose:** Stores configuration variables such as API keys, collection names, and MongoDB credentials.
 * **Function:** Centralizes environment-dependent settings, making the system easier to manage and deploy securely.
 
----
-
-### 🔹 `requirements.txt`
+### `requirements.txt`
 
 * **Purpose:** Lists all Python dependencies and libraries needed to run the project.
 * **Function:** Allows easy setup of the Python environment via `pip install -r requirements.txt`.
 
----
 
-### 🔹 `README.md`
-
-* **Purpose:** Documentation for the project.
-* **Content:** Includes a project overview, setup instructions, usage guide, and future directions.
-
----
-
-Let me know if you'd like a visual folder diagram or if you're using another setup (e.g., Jupyter notebooks).
