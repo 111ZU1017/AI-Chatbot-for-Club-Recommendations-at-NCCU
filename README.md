@@ -194,9 +194,9 @@ Our project set out to solve the problem:
 
 ### Chen, Tzu-Jung (Laura) – Project Manager
 
-* Collected and organized data from Excel and PDF sources.
+* Collected and organized data from NCCU club directory onto Excel.
 * Oversaw and co-led overall project planning and task delegation.
-* Wrote and compiled the final project paper, ensuring coherence and alignment with objectives.
+* Wrote and compiled the final project paper and README, ensuring coherence and alignment with objectives.
 
 ### Pawarun Pungton (Penny) – Coder, Project Manager
 
